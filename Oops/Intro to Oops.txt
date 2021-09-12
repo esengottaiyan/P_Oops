@@ -1,0 +1,7 @@
+﻿Object Oriented Programming
+	Approach
+	- Object Interacting with each other to accomplish a task (Request Response)
+	Example 
+	- Building
+
+Simula (First version of Oops)

@@ -1,21 +1,5 @@
-﻿Object Oriented Programming
-	Approach
-	- Object Interacting with each other to accomplish a task (Request Response)
-	Example 
-	- Building
-
-Simula (First version of Oops)
+﻿
+Please find the documentation from google docs
+https://docs.google.com/document/d/1bUxFHykiazwHe6_vXn5FQhAGhxqJskcT0AsxO4GEWfI/edit?usp=sharing
 
 
-Disadvantage of Procedural Language over Oops
-	* Instructions
-	* No organization principle involved
-	* Unrestricted access
-	* Unable to support the large functionalities
-	* Real world modeling
-		* Attributes (characteristics))
-		* Behavior (Expression)
-
-Object Oriented Approach
-	
-	-> Object - data and the function that operate the data
